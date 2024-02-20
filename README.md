@@ -2,9 +2,9 @@
 - 👀 I’m interested in 做视频
 - 🌱 I’m currently learning 做视频
 - 💞️ I’m looking to collaborate on 做视频
-- 📫 How to reach me 视频
-- 😄 Pronouns: 视频
-- ⚡ Fun fact: 视频
+- 📫 How to reach me 
+- 😄 Pronouns: 
+- ⚡ Fun fact: 
 
 <!---
 allijiang/allijiang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
